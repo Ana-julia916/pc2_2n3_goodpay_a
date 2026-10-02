@@ -102,3 +102,19 @@ Abaixo estão os nove textos desenvolvidos para as campanhas, todos ajustados pa
 | **9. Vida Real** | **Equilíbrio Financeiro para a Vida Real** | Na correria do dia a dia, equilibrar os pratos da vida pessoal, profissional e financeira é um grande desafio. O aplicativo GoodPay surge como o assistente ideal para a vida real, conectando você às melhores práticas de gestão do dinheiro na palma da sua mão. Com recursos rápidos, interface amigável e dicas personalizadas, ele simplifica o complexo mundo das finanças. Alcance a harmonia perfeita entre poupar para o futuro e desfrutar do agora. Baixe o aplicativo, organize-se e veja como é fácil e prático conquistar sua tão sonhada paz. | 545 | 
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_w6mp88w6mp88w6mp" src="https://github.com/user-attachments/assets/67172bcd-d566-4808-aa42-1b8e573ca001" />
+
+# Equipe de Devs:
+## Amandys
+<img width="720" height="1600" alt="amds" src="https://github.com/user-attachments/assets/103eba49-8c73-4d91-a650-b2c7d3b165c2" />
+## Ana Padilha
+<img width="2448" height="3264" alt="ana" src="https://github.com/user-attachments/assets/b1766642-423e-408d-9912-15b54fca3d82" />
+## Alão
+<img width="1980" height="2640" alt="Alão" src="https://github.com/user-attachments/assets/7c491088-e24f-4283-8e89-7cfdc13015e9" />
+## Calebe
+<img width="501" height="546" alt="calebe" src="https://github.com/user-attachments/assets/281d39e3-abc1-4bcd-bf27-c4c63445972c" />
+## Edu
+<img width="688" height="913" alt="edu" src="https://github.com/user-attachments/assets/de7ef713-e7ab-4697-b2c4-19ed2201b6a2" />
+## Gabys 
+<img width="1704" height="1575" alt="gabs" src="https://github.com/user-attachments/assets/561992d7-3ff5-4b68-8890-48c85b6cea13" />
+
+
