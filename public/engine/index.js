@@ -10,8 +10,7 @@ async function initializeLogin() {
             u.senha === senha)
 
         if (userValided) {
-            localStorage.setItem("usuarioAtual", userValided)
-            console.log(userValided)
+            localStorage.setItem("usuarioAtual", JSON.stringify(userValided))
             setTimeout(() => {
                 window.location.href = './dashboard.html'
             }, 5000)
@@ -24,9 +23,15 @@ async function initializeLogin() {
 }
 
 async function storageUsersInfo() {
-    user = localStorage.getItem('usuarioAtual')
+    const userLoged = JSON.parse(localStorage.getItem('usuarioAtual'))
 
-    document.getElementById('saldo_conta').innerText = `Saldo de ${user.name}`
-    document.getElementById('trans_conta').innerText = `Conta: ${user.id}`
-    document.getElementById('cash_conta').innerText = `R$ ${user.name}` 
+    if(userLoged.photoUrl != ""){
+        document.getElementById("login-img").innerHTML = `<img src="${userLoged.photoUrl}" class="img-fluid rounded-start" alt="${userLoged.email}" width="100%">`
+    } else {
+        document.getElementById("login-img").innerHTML = `<img src="./assets/logo_claro.png" class="img-fluid rounded-start" alt="..." width="100%">`
+    }
+
+    document.getElementById("login-name").innerText = userLoged.name
+    document.getElementById("login-email").innerText = userLoged.email
+    document.getElementById("login-date").innerText = Date.now()
 }
